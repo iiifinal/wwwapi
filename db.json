@@ -1,7 +1,5 @@
 {
-  status:200,
-  data:{
-  "ace291": ["https://api-www.lodivip.ph"],
+   "ace291": ["https://api-www.lodivip.ph"],
   "hot646": ["https://api-www.apihot646.com"],
   "292jili": ["https://api-www.lodislotx.com"],
   "646jili": ["https://api-www.apikagame.com"],
@@ -17,5 +15,4 @@
   "super291": ["https://api-www.api291bet.com"],
   "top646": ["https://api-www.apitop646.com"],
   "wasp": ["https://api-www.wasptha.com"]
-}
 }
